@@ -1,7 +1,7 @@
 name: 💡 Feature Request
 description: Suggest an improvement you’d like to see
 title: "[feat]: "
-labels: [ "⏫ enhancement" ]
+labels: [ "⏫ enhancement", "enhancement" ]
 assignees: [ trueberryless ]
 body:
   - type: markdown
