@@ -13,6 +13,8 @@ These files serve as the default community health files for all my repositories 
 - `SECURITY.md`: Security policies and reporting procedures
 - `FUNDING.yml`: Sponsorship options
 - `LICENSE`: License information for my projects
+- `.github/ISSUE_TEMPLATE/*`: Files for templates of issues
+- `.github/PULL_REQUEST_TEMPLATE.md`: Default content for Pull Requests
 
 ## How These Files Work
 
