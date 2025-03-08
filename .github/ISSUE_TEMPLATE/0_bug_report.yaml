@@ -2,6 +2,7 @@ name: 🐛 Bug Report
 description: Report an issue or possible bug
 title: "[bug]: "
 labels: [ "🐛 bug", "bug" ]
+type: 'Bug'
 assignees: [ trueberryless ]
 body:
   - type: markdown
